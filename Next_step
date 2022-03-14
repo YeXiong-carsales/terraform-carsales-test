@@ -1,0 +1,1 @@
+Add AWS-AWSManagedRulesCommonRuleSet to WAF web rule to protect Cross-Site Scripting (XSS)
